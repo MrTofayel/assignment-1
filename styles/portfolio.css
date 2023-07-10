@@ -208,7 +208,7 @@ header {
 
 .aa20 {
     margin: 0px 240px 128px 240px;
-    background-image: url("/Flower Asset/Rectangle\ 9.png");
+    background-image: url("./Flower Asset/Rectangle\ 9.png");
     width: 1440px;
     height: 449px;
     flex-shrink: 0;
