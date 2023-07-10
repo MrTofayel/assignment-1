@@ -1,0 +1,261 @@
+* {
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+}
+
+.aa01 {
+    display: flex;
+    width: 708px;
+    flex-direction: column;
+    flex-shrink: 0;
+
+    color: #272727;
+    font-family: Lato;
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 800;
+    padding-top: 197px;
+    padding-left: 200px;
+}
+
+.aa02 {
+    display: flex;
+    width: 634px;
+    flex-direction: column;
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    padding: 32px 0px 32px 200px;
+}
+
+.aa03 {
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 20px 43px;
+    border-radius: 8px;
+    background: #E55473;
+    border: 0;
+
+
+}
+
+
+.aa04 {
+    width: 635px;
+    height: 800px;
+    padding: 50px 200px 0px 0px;
+    padding-bottom: 0px;
+    object-position: bottom;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+header {
+    background-color: #E554731A;
+}
+
+.aa05 {
+    list-style: none;
+}
+
+.aa07 {
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
+    padding-top: 140px;
+}
+
+.aa08 {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    display: flex;
+    flex-direction: column;
+    padding-top: 24px;
+}
+
+.aa06 {
+    border: #a84e7a26;
+    border-radius: 300px 300px 0px 0px;
+    padding: 110px 78px 0px 76px;
+    width: 310px;
+    height: 428px;
+    flex-shrink: 0;
+    background-color: #A7216226;
+    padding-right: 24px;
+}
+
+.aa09 {
+    border: #a84e7a26;
+    border-radius: 300px 300px 0px 0px;
+    padding: 110px 78px 0px 76px;
+    width: 310px;
+    height: 428px;
+    flex-shrink: 0;
+    background-color: #0597A026;
+}
+
+.aa10 {
+    border: #a84e7a26;
+    border-radius: 300px 300px 0px 0px;
+    padding: 110px 78px 0px 76px;
+    width: 310px;
+    height: 428px;
+    flex-shrink: 0;
+    background-color: #477D1126;
+}
+
+.aa11 {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    padding: 58px 200px 128px 190px;
+}
+
+.aa11 li {
+    list-style: none;
+    text-align: center;
+}
+
+.aa12 {
+    padding-top: 32px;
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 35px;
+    text-decoration-line: underline;
+}
+
+.aa13 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.aa14 {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    width: 708px;
+    flex-shrink: 0;
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+    padding: 230px 0px 24px 300px
+}
+
+.aa15 {
+    margin: 128px 0px 128px 0px;
+    background-color: #f700350d;
+    text-align: center;
+}
+
+.image1 {
+    width: 318px;
+    height: 420px;
+    flex-shrink: 0;
+    padding: 100px 429px 100px 0px
+}
+
+.aa16 {
+    display: flex;
+    width: 634px;
+    flex-direction: column;
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    padding: 0px 0px 52px 280px;
+}
+
+.aa17 {
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.aa18 {
+    width: 342px;
+    height: 396px;
+    flex-shrink: 0;
+}
+
+.aa19 {
+    margin: 0px 0px 128px 0px;
+}
+
+.aa19 ul {
+    list-style: none;
+}
+
+.aa20 {
+    margin: 0px 240px 128px 240px;
+    background-image: url("/Flower Asset/Rectangle\ 9.png");
+    width: 1440px;
+    height: 449px;
+    flex-shrink: 0;
+    border-radius: 8px;
+}
+
+.aa20 ul {
+    list-style: none;
+}
+
+.aa21 {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.aa22 {
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    padding-top: 122px;
+    padding-bottom: 16px;
+}
+
+.aa23 {
+    width: 700px;
+    height: 64px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    background: #FFF;
+}
+
+::placeholder {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 16px;
+    font-weight: 400;
+   
+}
+.aa24{align-items: center;
+    display: flex;
+    
+    padding: 48px 200px 121px 250px;}
